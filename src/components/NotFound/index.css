@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.image {
+  width: 250px;
+}
+.imageContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
